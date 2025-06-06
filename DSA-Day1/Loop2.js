@@ -30,3 +30,13 @@ console.log(countNegative(arr));
  * 6. And this will continue until loop will get false.
  * 7. Return the result.
  */
+
+/**
+ * Time Complexity  --> O(n)
+ * Because, count which is constant
+ * And We have taken only one loop, Which will iterate till n times(array's length).
+ * 
+ * Space Complexity --> O(1)
+ * We have't created any extra data structure.
+ * count which is a constant only.
+ */
