@@ -1,7 +1,8 @@
 
 //Calculate the factorial using recusrsion -->
+
 function fact(num){
-   if(num == 0) return 1;
+   if(num == 0) return 1;  //Base Case
 
    return num*fact(num-1);
 }
